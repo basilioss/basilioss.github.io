@@ -74,17 +74,6 @@ strong {
     font-size:calc(var(--size) * 3.4);
     margin-top:calc(var(--spacing)/2)
 }
-ul.blog-posts{
-    list-style-type:none;
-    padding:unset
-}
-ul.blog-posts li{
-    display:flex;
-    flex-direction:column
-}
-ul.blog-posts li span{
-    min-width:11ch
-}
 time{
     opacity:.5;
     font-style:normal
