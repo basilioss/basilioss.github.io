@@ -8,11 +8,7 @@ theme = 'hugo-bearblog'
 # Basic metadata configuration for your blog.
 title = "Vasyl Tyshchuk"
 author = "Vasyl Tyshchuk"
-# copyright = "Copyright © 2020, Jane Doe."
 languageCode = "en-US"
-
-# Filesystem path to write files to
-# publishdir = "docs"
 
 # Generate a nice robots.txt for SEO
 enableRobotsTXT = true
@@ -42,7 +38,7 @@ ignoreErrors = ["error-disable-taxonomy"]
 
 [params]
   # The "description" of your website. This is used in the meta data of your generated html.
-  description = "Basilios's personal website"
+  description = "Basilios's Webpage"
 
   # The path to your "favicon". This should be a square (at least 32px x 32px) png-file.
   # Hint: It's good practise to also put a "favicon.ico"-file into your "static"-folder.
@@ -52,7 +48,7 @@ ignoreErrors = ["error-disable-taxonomy"]
   # services like Twitter or Slack want to generate a preview of a link to your site.
   # See https://gohugo.io/templates/internal#twitter-cards and
   # https://gohugo.io/templates/internal#open-graph.
-  images = ["images/share.png"]
+  # images = ["images/share.png"]
 
   # Another "title" :-). This one is used as the site_name on the Hugo's internal
   # opengraph structured data template.
