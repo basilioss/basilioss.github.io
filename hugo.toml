@@ -12,7 +12,7 @@ author = "Vasyl Tyshchuk"
 languageCode = "en-US"
 
 # Filesystem path to write files to
-publishdir = "docs"
+# publishdir = "docs"
 
 # Generate a nice robots.txt for SEO
 enableRobotsTXT = true
