@@ -1,0 +1,2 @@
+User-Agent: *
+Sitemap: https://basilioss.github.io/sitemap.xml
